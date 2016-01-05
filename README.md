@@ -1,5 +1,5 @@
 # scrabble
-Plays a Scrabble game against another player, or against a easy or hard computer player
+Plays a Scrabble game against another player, or against an easy or hard computer player
 
 ### How to Play
 To play a Scrabble game, download this repo as a zip file, and then extract it.
